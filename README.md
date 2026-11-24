@@ -1,5 +1,6 @@
 ### فعالیت فصل پنجم: تست، CI/CD و DevOps
 
+شروین آقائی 
 نام پروژه: Smart Team Task Manager
 
 ### مقدمه
